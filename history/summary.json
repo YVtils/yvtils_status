@@ -40,17 +40,19 @@
     "url": "https://yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/yvtils.net.ico",
     "slug": "y-vtils-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 408,
-    "timeWeek": 452,
-    "timeMonth": 454,
-    "timeYear": 454,
-    "dailyMinutesDown": {}
+    "time": 448,
+    "timeDay": 338,
+    "timeWeek": 429,
+    "timeMonth": 448,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   }
 ]
