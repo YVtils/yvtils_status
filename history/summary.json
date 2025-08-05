@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 417,
-    "timeWeek": 454,
-    "timeMonth": 493,
+    "timeDay": 489,
+    "timeWeek": 470,
+    "timeMonth": 494,
     "timeYear": 491,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
-    "timeDay": 581,
-    "timeWeek": 651,
-    "timeMonth": 720,
+    "timeDay": 706,
+    "timeWeek": 672,
+    "timeMonth": 721,
     "timeYear": 708,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,19 @@
     "url": "https://yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/yvtils.net.ico",
     "slug": "y-vtils-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 329,
-    "timeWeek": 411,
-    "timeMonth": 439,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "time": 441,
+    "timeDay": 406,
+    "timeWeek": 410,
+    "timeMonth": 438,
+    "timeYear": 441,
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   }
 ]
