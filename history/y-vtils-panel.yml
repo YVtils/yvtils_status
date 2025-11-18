@@ -1,7 +1,7 @@
 url: https://panel.yvtils.net
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2025-11-17T23:21:20.108Z
+status: down
+code: 500
+responseTime: 298
+lastUpdated: 2025-11-18T11:48:04.327Z
 startTime: 2025-06-20T15:59:30.649Z
 generator: Upptime <https://github.com/upptime/upptime>
