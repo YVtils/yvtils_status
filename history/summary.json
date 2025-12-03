@@ -22,9 +22,9 @@
     "url": "https://panel.yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.yvtils.net.ico",
     "slug": "y-vtils-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.94%",
@@ -34,6 +34,7 @@
     "timeMonth": 712,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2025-12-03": 0,
       "2025-11-24": 16,
       "2025-11-18": 123
     }
@@ -44,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yvtils.net.ico",
     "slug": "y-vtils-web",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 799,
     "timeDay": 563,
     "timeWeek": 555,
