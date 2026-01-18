@@ -1,5 +1,30 @@
 [
   {
+    "name": "YVtils Web",
+    "url": "https://yvtils.net",
+    "icon": "https://icons.duckduckgo.com/ip3/yvtils.net.ico",
+    "slug": "y-vtils-web",
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.81%",
+    "time": 752,
+    "timeDay": 434,
+    "timeWeek": 597,
+    "timeMonth": 591,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2025-11-18": 144,
+      "2025-09-24": 1138,
+      "2025-09-23": 1440,
+      "2025-09-22": 678,
+      "2025-08-15": 112,
+      "2025-08-05": 126
+    }
+  },
+  {
     "name": "YVtils API",
     "url": "https://api.yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/api.yvtils.net.ico",
@@ -11,10 +36,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
-    "timeDay": 460,
-    "timeWeek": 546,
-    "timeMonth": 531,
+    "timeDay": 470,
+    "timeWeek": 538,
+    "timeMonth": 529,
     "timeYear": 508,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "YVtils Auth",
+    "url": "https://auth.yvtils.net",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.yvtils.net.ico",
+    "slug": "y-vtils-auth",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 396,
+    "timeDay": 396,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   },
   {
@@ -29,39 +72,14 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 737,
-    "timeDay": 604,
-    "timeWeek": 785,
-    "timeMonth": 743,
+    "timeDay": 617,
+    "timeWeek": 766,
+    "timeMonth": 740,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-12-19": 26,
       "2025-11-24": 16,
       "2025-11-18": 123
-    }
-  },
-  {
-    "name": "YVtils Web",
-    "url": "https://yvtils.net",
-    "icon": "https://icons.duckduckgo.com/ip3/yvtils.net.ico",
-    "slug": "y-vtils-web",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
-    "time": 754,
-    "timeDay": 571,
-    "timeWeek": 640,
-    "timeMonth": 600,
-    "timeYear": 754,
-    "dailyMinutesDown": {
-      "2025-11-18": 144,
-      "2025-09-24": 1138,
-      "2025-09-23": 1440,
-      "2025-09-22": 678,
-      "2025-08-15": 112,
-      "2025-08-05": 126
     }
   }
 ]
