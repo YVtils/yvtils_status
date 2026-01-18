@@ -3,12 +3,14 @@ owner: yvtils # Your GitHub organization or username, where this repository live
 repo: yvtils_status # The name of this repository
 
 sites:
-  - name: YVtils API
-    url: https://api.yvtils.net
-  - name: YVtils Panel
-    url: https://panel.yvtils.net
   - name: YVtils Web
     url: https://yvtils.net
+  - name: YVtils API
+    url: https://api.yvtils.net
+  - name: YVtils Auth
+    url: https://auth.yvtils.net
+  - name: YVtils Panel
+    url: https://panel.yvtils.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
