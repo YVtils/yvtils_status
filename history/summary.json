@@ -94,19 +94,19 @@
     "url": "bero1.yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bero-1-yv-se-h-002",
-    "status": "down",
-    "uptime": "77.50%",
-    "uptimeDay": "77.50%",
-    "uptimeWeek": "77.50%",
-    "uptimeMonth": "77.50%",
-    "uptimeYear": "77.50%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "13.70%",
+    "uptimeDay": "13.70%",
+    "uptimeWeek": "13.70%",
+    "uptimeMonth": "13.70%",
+    "uptimeYear": "13.70%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-03-31": 0
+      "2026-03-31": 9
     }
   }
 ]
