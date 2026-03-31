@@ -4,23 +4,31 @@ repo: yvtils_status # The name of this repository
 
 sites:
   - name: YVtils Web
-    url: https://yvtils.net
+    url: https://yvtils.net    
+    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
   - name: YVtils API
     url: https://api.yvtils.net
+    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
   - name: YVtils Auth
     url: https://auth.yvtils.net
+    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
   - name: YVtils Panel
     url: https://panel.yvtils.net
+  - name: YV-SE-H-001
+    check: "tcp-ping"
+    url: yv-se-h-001.yvtils.net
+    port: 22
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.yvtils.net
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/icon.svg
+  favicon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
+  faviconSvg:  https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/icon.svg
+  themeUrl: https://status.yvtils.net/custom.css
   name: YVtils Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**YVtils services**, monitored in real time"
+  introMessage: "Track the current status, uptime, and performance of all YVtils systems. Updates are provided automatically to keep you informed about incidents and maintenance."
   navbar:
     - title: Status
       href: /
