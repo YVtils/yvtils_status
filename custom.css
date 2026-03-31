@@ -1,36 +1,36 @@
 :root {
-  --body-background-color: var(--bg-primary);
-  --body-text-color: var(--text-primary);
+  --body-background-color: #1e211d;
+  --body-text-color: #ffffff;
 
-  --card-background-color: var(--bg-secondary);
-  --nav-background-color: var(--bg-secondary);
+  --card-background-color: #2a2d28;
+  --nav-background-color: #2a2d28;
 
-  --nav-border-bottom-color: var(--border-primary);
-  --nav-current-border-bottom-color: var(--border-focus);
+  --nav-border-bottom-color: #5f795b;
+  --nav-current-border-bottom-color: #88d07c;
 
-  --card-border-color: var(--border-primary);
+  --card-border-color: #5f795b;
 
-  --down-border-left-color: var(--state-error);
-  --down-background-color: var(--state-error);
+  --down-border-left-color: #9E0012;
+  --down-background-color: #9E0012;
 
-  --degraded-border-left-color: var(--state-warning);
+  --degraded-border-left-color: #856325;
 
-  --up-border-left-color: var(--state-success);
+  --up-border-left-color: #007D3E;
 
-  --tag-color: var(--text-inverse);
-  --tag-up-background-color: var(--state-success);
-  --tag-down-background-color: var(--state-error);
-  --tag-degraded-background-color: var(--state-warning);
+  --tag-color: #1e211d;
+  --tag-up-background-color: #007D3E;
+  --tag-down-background-color: #9E0012;
+  --tag-degraded-background-color: #856325;
 
-  --change-background-color: var(--state-warning);
+  --change-background-color: #856325;
 
-  --error-button-border-color: var(--interactive-primary);
-  --error-button-background-color: var(--interactive-primary);
-  --error-button-color: var(--text-inverse);
+  --error-button-border-color: #d6e0c6;
+  --error-button-background-color: #d6e0c6;
+  --error-button-color: #1e211d;
 
-  --submit-button-border-color: var(--interactive-primary);
-  --submit-button-background-color: var(--interactive-primary);
-  --submit-button-color: var(--text-inverse);
+  --submit-button-border-color: #d6e0c6;
+  --submit-button-background-color: #d6e0c6;
+  --submit-button-color: #1e211d;
 
   --graph-opacity: 1;
   --graph-filter: none;
