@@ -39,8 +39,10 @@
 
   --graph-opacity: 1;
   --graph-filter: none;
+}
 
-  font-family: sourGummy !important
+body {
+    font-family: sourGummy !important
 }
 
 .article {
