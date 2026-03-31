@@ -5,13 +5,13 @@ repo: yvtils_status # The name of this repository
 sites:
   - name: YVtils Web
     url: https://yvtils.net    
-    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
+    icon: https://api.yvtils.net/images/yvtils_logo
   - name: YVtils API
     url: https://api.yvtils.net
-    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
+    icon: https://api.yvtils.net/images/yvtils_logo
   - name: YVtils Auth
     url: https://auth.yvtils.net
-    icon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
+    icon: https://api.yvtils.net/images/yvtils_logo
   - name: YVtils Panel
     url: https://panel.yvtils.net
   - name: YV-SE-H-001
@@ -22,9 +22,9 @@ sites:
 
 status-website:
   cname: status.yvtils.net
-  logoUrl: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/icon.svg
-  favicon: https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/assets/yvtils_1000.png
-  faviconSvg:  https://github.com/YVtils/yvtils_web/blob/25835dd4f979eee018f3735b3d66c6be9039d625/public/icon.svg
+  logoUrl: https://api.yvtils.net/images/yvtils_logo.svg
+  favicon: https://api.yvtils.net/images/yvtils_logo
+  faviconSvg:  https://api.yvtils.net/images/yvtils_logo.svg
   themeUrl: https://status.yvtils.net/custom.css
   name: YVtils Status
   introTitle: "**YVtils services**, monitored in real time"
