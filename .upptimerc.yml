@@ -18,6 +18,10 @@ sites:
     check: "tcp-ping"
     url: yv-se-h-001.yvtils.net
     port: 22
+  - name: Bero 1 (YV-SE-H-002)
+    check: "tcp-ping"
+    url: bero1.yvtils.net
+    port: 22
 
 
 status-website:
