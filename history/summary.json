@@ -4,27 +4,29 @@
     "url": "https://yvtils.net",
     "icon": "https://api.yvtils.net/images/yvtils_logo",
     "slug": "y-vtils-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
-    "timeDay": 626,
-    "timeWeek": 602,
+    "timeDay": 609,
+    "timeWeek": 601,
     "timeMonth": 592,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "YVtils API",
     "url": "https://api.yvtils.net",
     "icon": "https://api.yvtils.net/images/yvtils_logo",
     "slug": "y-vtils-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 515,
     "timeMonth": 503,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "YVtils Auth",
     "url": "https://auth.yvtils.net",
     "icon": "https://api.yvtils.net/images/yvtils_logo",
     "slug": "y-vtils-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,25 +55,29 @@
     "timeWeek": 529,
     "timeMonth": 504,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "YVtils Panel",
     "url": "https://panel.yvtils.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.yvtils.net.ico",
     "slug": "y-vtils-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 749,
-    "timeWeek": 713,
-    "timeMonth": 707,
-    "timeYear": 733,
-    "dailyMinutesDown": {}
+    "time": 732,
+    "timeDay": 582,
+    "timeWeek": 676,
+    "timeMonth": 699,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "YV-SE-H-001",
