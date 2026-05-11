@@ -11,9 +11,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 698,
-    "timeDay": 565,
-    "timeWeek": 542,
-    "timeMonth": 554,
+    "timeDay": 560,
+    "timeWeek": 541,
+    "timeMonth": 551,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2026-04-16": 154
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 512,
-    "timeDay": 558,
-    "timeWeek": 529,
-    "timeMonth": 531,
+    "timeDay": 543,
+    "timeWeek": 522,
+    "timeMonth": 530,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2026-04-16": 120
@@ -45,15 +45,15 @@
     "icon": "https://api.yvtils.net/images/yvtils_logo",
     "slug": "y-vtils-auth",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 522,
-    "timeDay": 673,
-    "timeWeek": 577,
-    "timeMonth": 545,
+    "timeDay": 554,
+    "timeWeek": 570,
+    "timeMonth": 544,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-04-16": 121
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 744,
-    "timeDay": 1036,
-    "timeWeek": 905,
-    "timeMonth": 834,
+    "timeDay": 983,
+    "timeWeek": 904,
+    "timeMonth": 839,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2026-04-16": 121
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 167,
+    "timeDay": 173,
     "timeWeek": 157,
     "timeMonth": 149,
     "timeYear": 145,
