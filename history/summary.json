@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 693,
-    "timeDay": 401,
-    "timeWeek": 506,
-    "timeMonth": 538,
-    "timeYear": 693,
+    "time": 692,
+    "timeDay": 568,
+    "timeWeek": 529,
+    "timeMonth": 534,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2026-04-16": 154
     }
@@ -25,15 +25,15 @@
     "icon": "https://api.yvtils.net/images/yvtils_logo",
     "slug": "y-vtils-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 512,
-    "timeDay": 471,
-    "timeWeek": 517,
-    "timeMonth": 539,
+    "timeDay": 591,
+    "timeWeek": 534,
+    "timeMonth": 541,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2026-04-16": 120
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 522,
-    "timeDay": 412,
-    "timeWeek": 509,
-    "timeMonth": 549,
+    "timeDay": 559,
+    "timeWeek": 530,
+    "timeMonth": 546,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-04-16": 121
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.yvtils.net.ico",
     "slug": "y-vtils-panel",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 748,
-    "timeDay": 772,
-    "timeWeek": 860,
-    "timeMonth": 900,
-    "timeYear": 748,
+    "uptimeYear": "99.98%",
+    "time": 749,
+    "timeDay": 957,
+    "timeWeek": 895,
+    "timeMonth": 902,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2026-04-16": 121
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 119,
-    "timeWeek": 148,
+    "time": 147,
+    "timeDay": 165,
+    "timeWeek": 154,
     "timeMonth": 154,
-    "timeYear": 146,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   }
 ]
